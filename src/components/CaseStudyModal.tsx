@@ -206,7 +206,7 @@ export const CaseStudyModal: React.FC<CaseStudyModalProps> = ({ film, onClose, o
               {/* Viewport markers */}
               <div className="absolute top-2.5 left-2.5 right-2.5 flex items-center justify-between text-[10px] font-mono pointer-events-none z-10">
                 <span className="px-2 py-0.5 rounded bg-black/75 border border-white/10 text-white font-semibold">
-                  UPTO 1080P FULL HD
+                  UP TO 1080P FULL HD
                 </span>
                 <span className="px-2 py-0.5 rounded bg-amber-400 text-neutral-950 font-bold">
                   {film.aspectRatio}
@@ -281,7 +281,7 @@ export const CaseStudyModal: React.FC<CaseStudyModalProps> = ({ film, onClose, o
             </div>
           </div>
 
-          {/* Quality Standard Claim (Upto 1080p and minimal to no AI artifacts) */}
+          {/* Quality Standard Claim (Up to 1080p and minimal to no AI artifacts) */}
           <div className="p-4 rounded-xl bg-neutral-900/80 border border-amber-500/30 flex items-start gap-3">
             <ShieldCheck className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
             <div className="text-xs">

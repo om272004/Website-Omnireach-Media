@@ -15,7 +15,7 @@ export interface PortfolioFilm {
   title: string;
   tagline: string;
   aspectRatio: '16:9' | '9:16' | '1:1';
-  resolution: 'Upto 1080p Full HD';
+  resolution: 'Up to 1080p Full HD';
   frameRate: string;
   duration: string;
   platforms: string[];
