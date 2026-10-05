@@ -1,0 +1,6 @@
+{
+  "name": "OmniReach Media — Commercial Ad Films",
+  "description": "Creative ad film and video advertising agency producing cinematic commercials, D2C brand films, and high-impact digital ads in 1080p Full HD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
